@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Basic colors (REQUIRED) -->
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+
+    <!-- Screen background -->
+    <color name="screen_bg">#FFFFFF</color>
+
+    <!-- Vehicle card -->
+    <color name="vehicle_bg">#FFFFFF</color>
+    <color name="vehicle_text">#000000</color>
+
+    <!-- Input field -->
+    <color name="input_bg">#FFFFFF</color>
+    <color name="input_text">#000000</color>
+
+</resources>
